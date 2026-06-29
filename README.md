@@ -27,8 +27,10 @@ I’m passionate about engineering scalable B2B and B2C systems that empower sma
 ### ⚙️ Environment & Version Control
 ![](https://img.shields.io/badge/Linux_WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white) 
 ![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### 🤖 AI-Native IDEs & Assistants
 ![](https://img.shields.io/badge/Cursor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
