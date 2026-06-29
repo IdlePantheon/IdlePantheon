@@ -6,7 +6,7 @@ I’m passionate about engineering scalable B2B and B2C systems that empower sma
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 🔭 **I’m currently working on:** Building robust full-stack applications, handling everything from frontend UI to backend APIs and deployment.
 - 🌱 **I’m currently learning:** Advanced JavaScript patterns and modern full-stack engineering principles.
