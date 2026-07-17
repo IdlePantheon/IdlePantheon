@@ -1,5 +1,9 @@
 # Hi there, I'm Victor! 👋
 
+<h3 align="center"> Software Engineer </h3>
+<p align="center">
+<img  alt ="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 I am a Software Engineering Student at Moringa School diving deep into full-stack development. I moved away from "vibe coding" and relying on trial and error to build a rock-solid foundation in how software actually works under the hood. 
 
 I’m passionate about engineering scalable B2B and B2C systems that empower small businesses and democratize financial technology, making powerful fintech tools and knowledge accessible to local communities.
