@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=595&height=44&lines=In%20the%20beginning%2C%20there%20was%20the%20code." alt="Typing headlines" />
 </p>
-
+<img  alt ="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **Sharpening my craft**  
